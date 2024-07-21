@@ -1,0 +1,22 @@
+{
+  "title": {
+    "message": "Oma CV sivu",
+    "description": "The title in the navbar"
+  },
+  "logo.alt": {
+    "message": "Sivun logo",
+    "description": "The alt text of navbar logo"
+  },
+  "item.label.Tutorial": {
+    "message": "Dokumentit",
+    "description": "Navbar item with label Tutorial"
+  },
+  "item.label.Blog": {
+    "message": "Blogi",
+    "description": "Navbar item with label Blog"
+  },
+  "item.label.GitHub": {
+    "message": "GitHub",
+    "description": "Navbar item with label GitHub"
+  }
+}
