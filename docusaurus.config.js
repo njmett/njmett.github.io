@@ -8,7 +8,7 @@ import {themes as prismThemes} from 'prism-react-renderer';
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'Meikän CV ja/tai Blogi',
+  title: 'Henkilökohtainen verkkosivuni',
   tagline: 'Pahasti työn alla, mutta edes julkaistu :D',
   favicon: 'img/favicon.ico',
 

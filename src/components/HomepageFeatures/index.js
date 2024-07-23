@@ -4,29 +4,29 @@ import styles from './styles.module.css';
 
 const FeatureList = [
   {
-    title: 'Easy to Use',
+    title: 'Mikä homma?',
     Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
     description: (
       <>
-        Tässä julkaistuna verkkosivustoni ensimmäinen versio.
+        Tässä julkaistuna verkkosivustoni ensimmäinen versio. Sivusto on tarkoitettu itselleni blogialustaksi ja omien touhujeni dokumentointiin. Jos olet löytänyt tänne sattumalta ja sisällöstä on hyötyä.
       </>
     ),
   },
   {
-    title: 'Focus on What Matters',
+    title: 'CV ja Dokumentit',
     Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
     description: (
       <>
-        Sivusto on tehty docusauruksen pohjalla ja ulkoasu onkin vielä sen mukainen. Visuaalit kehityksessä.
+        Yllä olevasta nappulasta pääsee katsomaan jonkinasteista CV:täni kun sen saan tänne lisättyä. Lisäksi CV:n alta löytyy useampia dokumentteja liittyen projekteihini. Esimerkiksi listaus TryHack Me sertifikaateistani. 
       </>
     ),
   },
   {
-    title: 'Powered by React',
+    title: 'Blogi',
     Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
     description: (
       <>
-        Verkkosivulla ajoittain päivitettävä blogi, sekä yleisiä osioita, joita ppidän tärkeänä. Etenkin opintoihin ja tietoturvaan liittyviä dokumentaatioita, joita teen itselleni.
+        Blogi osastolta löytyy satunnaisesti päivityksiä, asioista joita on ajankohtaisesti tullut tehtyä. Päivitysaikataulu on siis silloin kun huvittaa.
       </>
     ),
   },
