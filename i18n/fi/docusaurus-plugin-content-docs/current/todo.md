@@ -31,6 +31,7 @@ Seuraavaksi jatketaan sivupprojektia ja muita projekteja blogia päivittäen.
 ## Projekteja käynnissä:
 
 * [ ] Verkkosivun seuraava vaihe
+* [ ] Try Hack Me SOC Level 1 -polku
 * [ ] Try Hack Me SOC Level 2 -polku
 * [ ] 10-sormi järjestelmän opettelu, Osassa 10/15 
 * [ ] Protocol Processing and Security @UTU
@@ -39,7 +40,7 @@ Seuraavaksi jatketaan sivupprojektia ja muita projekteja blogia päivittäen.
 * [ ] InfoSec - Computer Forensics Specialization
 * [ ] Google IT Support Professional Certificate
 * [ ] Duolingo, Ruotsi ja Saksa, päivä 519 
-* [ ] Työnhaku tietoturvan alalla
+* [x] Työnhaku tietoturvan alalla
 * [x] Sivun julkaisu
 
 ### Voisi ehkä aloittaa:
@@ -50,3 +51,5 @@ Ei uutta ennen kun joku vanhoista on valmista:
 - IBM and ISC2 Cybersecurity Specialist Professional Certificate
 - (ISC)² Systems Security Certified Practitioner (SSCP)
 - Microsoft Cybersecurity Analyst Professional Certificate
+- Cyber Incident Response Specialization - InfoSec
+- Vanhat THM polut ja työkalut sivuille
