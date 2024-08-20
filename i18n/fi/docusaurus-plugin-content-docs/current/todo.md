@@ -17,7 +17,6 @@ Lisättävä:
 - Yleinen verkkosivun ulkoasu ja alkuperäisen templaten poisto
 - Etusivu
 - Hakupalkki
-- CI/CD
 - Dokumenttien aloitus ja siistiminen
 - Dokumenttien jaottelu?
 
@@ -29,11 +28,11 @@ Seuraavaksi jatketaan sivuprojektia ja muita projekteja blogia päivittäen.
 
 * [ ] Verkkosivun seuraava vaihe
 * [ ] Try Hack Me SOC Level 2 -polku
-* [ ] 10-sormijärjestelmän opettelu, Osassa 10/15 
+* [ ] 10-sormijärjestelmän opettelu, Osassa 11/15 
 * [ ] Protocol Processing and Security @UTU
 * [ ] Jotain COBOL kursseja @Youtube 0/3
 * [ ] Google IT Support Professional Certificate
-* [ ] Duolingo, Ruotsi ja Saksa, päivä 528 
+* [ ] Duolingo, Ruotsi ja Saksa, päivä 541 
 * [ ] Microsoft Azure mini degree @edukamu
 
 ## Valmiit projektit:
