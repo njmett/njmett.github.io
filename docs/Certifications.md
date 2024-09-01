@@ -1,8 +1,8 @@
 # Kurssit ja Sertifikaatit
 
-Tässä dokumentissa erilaisia suorittamiani verkkokursseja ja niden todistuksia tai sertifikaatteja. Jokaisesta kurssista on myös pieni kuvaus sertifikaatin ohessa.
+Tässä dokumentissa erilaisia suorittamiani verkkokursseja ja niiden todistuksia tai sertifikaatteja. Jokaisesta kurssista on myös pieni kuvaus sertifikaatin ohessa.
 
-## TryHackMe Serttifikaatit
+## TryHackMe Sertifikaatit
 
 Alla suoritettuja tryhackme alustan sertifikaatteja. Näihin voi tutustua lisää [täällä](https://tryhackme.com/r/hacktivities).
 

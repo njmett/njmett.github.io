@@ -28,12 +28,16 @@ Seuraavaksi jatketaan sivuprojektia ja muita projekteja blogia päivittäen.
 
 * [ ] Verkkosivun seuraava vaihe
 * [ ] Try Hack Me SOC Level 2 -polku
-* [ ] 10-sormijärjestelmän opettelu, Osassa 11/15 
+* [ ] 10-sormijärjestelmän opettelu, Osassa 12/15 
 * [ ] Protocol Processing and Security @UTU
 * [ ] Jotain COBOL kursseja @Youtube 0/3
 * [ ] Google IT Support Professional Certificate
-* [ ] Duolingo, Ruotsi ja Saksa, päivä 541 
+* [ ] Duolingo, Ruotsi ja Saksa, päivä 559 
 * [ ] Microsoft Azure mini degree @edukamu
+* [ ] Foundations of Cryptography @UTU
+* [ ] Knowledge and Innovation Management @UTU
+* [ ] System and Application Security @UTU
+* [ ] Management of Information System Security @UTU
 
 ## Valmiit projektit:
 * [x] Työnhaku tietoturvan alalla
