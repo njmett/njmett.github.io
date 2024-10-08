@@ -6,6 +6,12 @@ Tässä dokumentissa erilaisia suorittamiani verkkokursseja ja niiden todistuksi
 
 Alla suoritettuja tryhackme alustan sertifikaatteja. Näihin voi tutustua lisää [täällä](https://tryhackme.com/r/hacktivities).
 
+### SOC Level 2 -polku
+
+![SOC 2](/img/thm-certs/SOC-Level-2.png)
+
+Lokien analysointia, Splunk ja ELK käyttöä. Havaitsemisteknologioita (esim. Sigma sääntöjä) Threat Huntingia ja Threat Emulaatiota. Lisäksi Incident Response harjoituksia ja haittaohjelmien analysointia.
+
 ### SOC Level 1 -polku
 
 ![SOC 1](/img/thm-certs/SOC-Level-1.png)

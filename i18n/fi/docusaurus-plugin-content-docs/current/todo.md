@@ -17,8 +17,19 @@ Lisättävä:
 - Yleinen verkkosivun ulkoasu ja alkuperäisen templaten poisto
 - Etusivu
 - Hakupalkki
-- Dokumenttien aloitus ja siistiminen
-- Dokumenttien jaottelu?
+- THM polut sivuille
+    - Jr Pentester
+    - Intro to Cyber
+    - Pre sec
+    - SOC 1
+    - SOC 2
+    - Pentest +
+    - Beginner
+    - Cyber Defence
+    - Offensive Pentesting
+    - Web fundamentals
+    - Red teaming
+    - DecSecOps
 
 # Suunnitelma tästä eteenpäin
 
@@ -27,14 +38,12 @@ Seuraavaksi jatketaan sivuprojektia ja muita projekteja blogia päivittäen.
 ## Projekteja käynnissä:
 
 * [ ] Verkkosivun seuraava vaihe
-* [ ] Try Hack Me SOC Level 2 -polku
-* [ ] 10-sormijärjestelmän opettelu, Osassa 12/15 
+* [ ] 10-sormijärjestelmän opettelu, Osassa 14/15 
 * [ ] Protocol Processing and Security @UTU
 * [ ] Jotain COBOL kursseja @Youtube 0/3
 * [ ] Google IT Support Professional Certificate
 * [ ] Duolingo, Ruotsi ja Saksa, päivä 559 
 * [ ] Microsoft Azure mini degree @edukamu
-* [ ] Foundations of Cryptography @UTU
 * [ ] Knowledge and Innovation Management @UTU
 * [ ] System and Application Security @UTU
 * [ ] Management of Information System Security @UTU
@@ -45,6 +54,7 @@ Seuraavaksi jatketaan sivuprojektia ja muita projekteja blogia päivittäen.
 * [x] InfoSec - Computer Forensics Specialization
 * [x] Try Hack Me SOC Level 1 -polku
 * [x] Linux Server Course @Youtube
+* [x] Try Hack Me SOC Level 2 -polku
 
 ### Voisi ehkä aloittaa:
 
