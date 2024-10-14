@@ -35,11 +35,11 @@ Nmap (Network Mapper) is a open-source tool used for network discovery and secur
 | -p1-1023 | scan ports 1 to 1023 |
 | -F | 100 most common ports |
 | -r | scan ports in consecutive order |
-| -T<0-5> | -T0 being the slowest and T5 the fastest |
-| --max-rate 50 | rate <= 50 packets/sec |
+| -T\<0-5> | -T0 being the slowest and T5 the fastest |
+| --max-rate 50 | rate \<= 50 packets/sec |
 | --min-rate 15 | rate >= 15 packets/sec |
 | --min-parallelism 100 | at least 100 probes in parallel |
-|--reason | explains how Nmap made its conclusion |
+| --reason | explains how Nmap made its conclusion |
 | -v | verbose |
 | -vv | very verbose |
 | -d | debugging |
