@@ -18,7 +18,6 @@ Lisättävä:
 - Etusivu
 - Hakupalkki
 - Työkaluja sivuille
-    - Wireshark
     - hydra
     - john
 
