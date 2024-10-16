@@ -18,7 +18,6 @@ Lisättävä:
 - Etusivu
 - Hakupalkki
 - Työkaluja sivuille
-    - hydra
     - john
 
 # Suunnitelma tästä eteenpäin
@@ -27,11 +26,11 @@ Seuraavaksi jatketaan sivuprojektia ja muita projekteja blogia päivittäen.
 
 ## Projekteja käynnissä:
 
-* [ ] 10-sormijärjestelmän opettelu, Osassa 14/15 
+* [ ] 10-sormijärjestelmän opettelu, Osassa 15/15 
 * [ ] Protocol Processing and Security @UTU
 * [ ] Jotain COBOL kursseja @Youtube 0/3
 * [ ] Google IT Support Professional Certificate
-* [ ] Duolingo, Ruotsi ja Saksa, päivä 599 
+* [ ] Duolingo, Ruotsi ja Saksa, päivä 603 
 * [ ] Microsoft Azure mini degree @edukamu
 * [ ] Knowledge and Innovation Management @UTU
 * [ ] System and Application Security @UTU
