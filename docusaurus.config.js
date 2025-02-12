@@ -9,7 +9,7 @@ import {themes as prismThemes} from 'prism-react-renderer';
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: 'Henkilökohtainen verkkosivuni',
-  tagline: 'Pahasti työn alla, mutta edes julkaistu :D',
+  tagline: 'Work in progress',
   favicon: 'img/logo copy.png',
 
   // Set the production url of your site here
@@ -67,7 +67,7 @@ const config = {
       // Replace with your project's social card
       image: 'img/logo.png',
       navbar: {
-        title: 'Oma CV sivu',
+        title: 'Niklas Mettälä',
         logo: {
           alt: 'My Site Logo',
           src: 'img/logo.png',
