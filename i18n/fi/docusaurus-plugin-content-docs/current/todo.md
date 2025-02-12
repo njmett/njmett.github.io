@@ -17,8 +17,6 @@ Lisättävä:
 - Yleinen verkkosivun ulkoasu ja alkuperäisen templaten poisto
 - Etusivu
 - Hakupalkki
-- Työkaluja sivuille
-    - john
 
 # Suunnitelma tästä eteenpäin
 
@@ -26,16 +24,13 @@ Seuraavaksi jatketaan sivuprojektia ja muita projekteja blogia päivittäen.
 
 ## Projekteja käynnissä:
 
-* [ ] 10-sormijärjestelmän opettelu, Osassa 15/15 
 * [ ] Protocol Processing and Security @UTU
-* [ ] Jotain COBOL kursseja @Youtube 0/3
+* [ ] Jotain COBOL kursseja @Youtube 1/3
 * [ ] Google IT Support Professional Certificate
-* [ ] Duolingo, Ruotsi ja Saksa, päivä 603 
+* [ ] Duolingo, Ruotsi ja Saksa, päivä 612 
 * [ ] Microsoft Azure mini degree @edukamu
 * [ ] Knowledge and Innovation Management @UTU
-* [ ] System and Application Security @UTU
 * [ ] Management of Information System Security @UTU
-* [ ] Vanhat THM polut ja työkalut sivuille
  
 ## Valmiit projektit:
 * [x] Työnhaku tietoturvan alalla
@@ -44,6 +39,9 @@ Seuraavaksi jatketaan sivuprojektia ja muita projekteja blogia päivittäen.
 * [x] Try Hack Me SOC Level 1 -polku
 * [x] Linux Server Course @Youtube
 * [x] Try Hack Me SOC Level 2 -polku
+* [x] Vanhat THM polut ja työkalut sivuille
+* [x] 10-sormijärjestelmän opettelu, Osassa 15/15
+* [x] System and Application Security @UTU
 
 ### Voisi ehkä aloittaa:
 
